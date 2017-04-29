@@ -1,0 +1,48 @@
+body {
+	background-color: black;
+}
+
+input {
+			position: absolute;
+			width: 550px;
+			height: 32px;
+			top: 400px;
+			left: 630px;
+			font-size: 1em;
+}
+
+input[type="text"], textarea {
+
+  background-color : #292929;
+  border: none;
+
+}
+
+img {
+			width: 700px;
+			position: relative;
+			left: 330px;
+			top: 100px;
+}
+
+#search {
+			position: relative;
+			left: 770px;
+			top: 240px;
+			background-color: #222;
+			color: white;
+			height: 36px;
+			border: 1px solid #242424;
+			font-weight: bold;
+}
+
+#lucky {
+			position: relative;
+			left: 790px;
+			top: 240px;
+			background-color: #222;
+			color: white;
+			height: 36px;
+			border: 1px solid #242424;
+			font-weight: bold;
+}
