@@ -4,4 +4,4 @@ This is a link to the project if any are curious.
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
 
-[View site](Vanamman.github.io/google-homepage)
+[View site](https://vanamman.github.io/google-homepage)
