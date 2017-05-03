@@ -16,13 +16,20 @@ input[type="text"], textarea {
 
   background-color : #292929;
   border: none;
+  color: #a3a3a3;
 
 }
 
+input:hover {
+	background-color: #3e3b3b !important;
+}
+
 img {
-	width: 700px;
-	margin: auto;
+	width: 272px;
+	height: 92px;
+	margin: 80px 0px 0px 790px;
 	display: block;
+	padding-top: 109px;
 }
 
 #search {
@@ -30,7 +37,7 @@ img {
     left: 130px;
     top: 440px;
     background-color: #222;
-    color: white;
+    color: #a3a3a3 ;
     height: 36px;
     border: 1px solid #242424;
     font-weight: bold;
@@ -38,12 +45,16 @@ img {
     width: 160px;
 }
 
+button:hover {
+	background-color: #3e3b3b !important;
+}
+
 #lucky {
     position: relative;
     left: 170px;
     top: 440px;
     background-color: #222;
-    color: white;
+    color: #a3a3a3 ;
     height: 36px;
     border: 1px solid #242424;
     font-weight: bold;
@@ -52,7 +63,7 @@ img {
 }
 
 li {
-	color: white;
+	color: #a3a3a3 ;
 	display: inline;
 	padding: 8px;
 	font-size: 1em;
