@@ -3,12 +3,13 @@ body {
 }
 
 input {
-			position: absolute;
-			width: 550px;
-			height: 32px;
-			top: 400px;
-			left: 630px;
-			font-size: 1em;
+	position: relative;
+	width: 600px;
+	height: 32px;
+	top: 350px;
+	left: 630px;
+	margin: auto;
+	font-size: 1em;
 }
 
 input[type="text"], textarea {
@@ -19,30 +20,68 @@ input[type="text"], textarea {
 }
 
 img {
-			width: 700px;
-			position: relative;
-			left: 330px;
-			top: 100px;
+	width: 700px;
+	margin: auto;
+	display: block;
 }
 
 #search {
-			position: relative;
-			left: 770px;
-			top: 240px;
-			background-color: #222;
-			color: white;
-			height: 36px;
-			border: 1px solid #242424;
-			font-weight: bold;
+    position: relative;
+    left: 130px;
+    top: 440px;
+    background-color: #222;
+    color: white;
+    height: 36px;
+    border: 1px solid #242424;
+    font-weight: bold;
+    font-size: 1em;
+    width: 160px;
 }
 
 #lucky {
-			position: relative;
-			left: 790px;
-			top: 240px;
-			background-color: #222;
-			color: white;
-			height: 36px;
-			border: 1px solid #242424;
-			font-weight: bold;
+    position: relative;
+    left: 170px;
+    top: 440px;
+    background-color: #222;
+    color: white;
+    height: 36px;
+    border: 1px solid #242424;
+    font-weight: bold;
+    font-size: 1em;
+    width: 160px;
+}
+
+li {
+	color: white;
+	display: inline;
+	padding: 8px;
+	font-size: 1em;
+}
+
+#footer {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	margin-left: -27px;
+	background-color: #222;
+}
+
+#header {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+#blst1 {
+	float: left;
+}
+
+#blst2 {
+	float: right;
 }
