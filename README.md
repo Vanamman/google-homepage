@@ -3,3 +3,5 @@ This is my first HTML/CSS project while going through TheOdinProject course. I w
 This is a link to the project if any are curious.
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
+
+View site (Vanamman.github.io/google-homepage)
